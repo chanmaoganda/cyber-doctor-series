@@ -1,0 +1,6 @@
+[book]
+authors = ["jingchen wang"]
+language = "en"
+multilingual = false
+src = "src"
+title = "cyber-doctor-series"
