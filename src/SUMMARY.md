@@ -7,3 +7,4 @@
     - [network](./addtions/network/introduction.md)
     - [virtual machine](./addtions/virtual-machine/introduction.md)
     - [Docker](./addtions/docker/introduction.md)
+        -[Docker Compose](./addtions/docker/compose.md)

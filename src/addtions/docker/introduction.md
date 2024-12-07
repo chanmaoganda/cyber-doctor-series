@@ -1,4 +1,4 @@
-# Brief Introduction Docker
+# Brief Introduction to Docker
 
 ## Is Docker a tool like VM Ware or Virtual Box?
 My answer is that this definition does not fully fit docker. Offering virtual machine service, isolating processes are their same points as a tool to use vms.
