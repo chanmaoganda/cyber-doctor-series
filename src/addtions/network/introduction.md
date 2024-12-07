@@ -14,10 +14,10 @@ Suppose A and B are playing minecraft. A starts a server exposing port 25565 on 
 We can fix this by exposing one port in our pc to public router. Suppose A uses a tool to expose 127.0.0.1:25565 to public router 56.122.34.144:29444. Then when B visits 56.122.34.144:29444, the request will be routed to A's pc with requesting 127.0.0.1:25565 automatically.
 
 ```
-Client B (Requesting)              Server A (Hosting the Site)
+Client B (Requesting)               Server A (Hosting the Site)
 +-------------+                     +--------------------------+
 |   Browser   |                     | Local Device (127.0.0.1) |
-| or HTTP App |                     | Public Site (e.g., Port 25565)  |
+| or HTTP App |                     | Public Site (Port 25565) |
 +-------------+                     +--------------------------+
         |                                      ^
         | 1. Send request to A's public IP     |

@@ -1,5 +1,9 @@
 # Brief introduction for Docker Compose
 
+## Be sure you have read network, virtual-machine sections
+- [network](../network/introduction.md)
+- [virtual-machine](../virtual-machine/introduction.md)
+
 ## Warning!!! Contents below are for those who can use basic docker commands.
 Suppose you can work with docker, like creating containers, volumes, images, networks, etc. You may get annoyed when you have to type such a long command like `$ docker run --name some-nginx -d -p 8080:80 some-content-nginx` each time you starts a nginx container and expose inner port 80 to host machine port 8080 and make the container called some-nginx. However, this is just a piece of cake when comparing with the command below:
 ``` bash

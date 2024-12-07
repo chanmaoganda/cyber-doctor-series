@@ -1,5 +1,9 @@
 # Brief Introduction to Docker
 
+## Be sure you have read network, virtual-machine sections
+- [network](../network/introduction.md)
+- [virtual-machine](../virtual-machine/introduction.md)
+
 ## Is Docker a tool like VM Ware or Virtual Box?
 My answer is that this definition does not fully fit docker. Offering virtual machine service, isolating processes are their same points as a tool to use vms.
 
