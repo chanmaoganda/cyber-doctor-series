@@ -9,9 +9,9 @@
     - [virtual machine](./additions/virtual-machine/introduction.md) -->
 - [SSH](./additions/ssh/index.md)
 - [Computer Network](./additions/computer-network/index.md)
-    - [Computer Network Introduction](./additions/computer-network/index.md)
+    - [Computer Network Introduction](./additions/computer-network/network.md)
 - [Virtual Machine](./additions/virtual-machine/index.md)
-    - [Virtual Machine Introduction](./additions/virtual-machine/index.md)
+    - [Virtual Machine Introduction](./additions/virtual-machine/virtual-machine.md)
 - [Docker](./additions/docker/index.md)
     - [Docker Introduction](./additions/docker/docker.md)
     - [Docker Compose](./additions/docker/compose.md)
