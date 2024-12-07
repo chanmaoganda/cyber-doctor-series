@@ -7,6 +7,13 @@
     - [ssh](./additions/ssh/introduction.md)
     - [network](./additions/network/introduction.md)
     - [virtual machine](./additions/virtual-machine/introduction.md) -->
+
+- [Cpp](./lang-related/cpp/index.md)
+- [Java](./lang-related/java/index.md)
+- [Python](./lang-related/python/index.md)
+- [Rust](./lang-related/rust/index.md)
+    - [Rust Introduction](./lang-related/rust/rust.md)
+
 - [SSH](./additions/ssh/index.md)
 - [Computer Network](./additions/computer-network/index.md)
     - [Computer Network Introduction](./additions/computer-network/network.md)
