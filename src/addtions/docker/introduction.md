@@ -2,10 +2,10 @@
 
 ## Is Docker a tool like VM Ware or Virtual Box?
 My answer is that this definition does not fully fit docker. Offering virtual machine service, isolating processes are their same points as a tool to use vms.
-For deep explanation for the difference between traditional vm tools and docker, let's first take a look at traditional vm tools like VM Ware and Virtual Box. Traditional vm tools provide user with full features of an operating system, which offers full support for `graphic user interface(GUI as abbr.)`, `terminal user interface(TUI as abbr.)`, `basic running components`, etc. Those services requires longer time and more resources to startup, meaning user have to cover higher cost if he runs a full operating system. While components packed in docker are `terminal user interface(TUI as abbr.)` and `basic running components`, which can cover most basic usage scenarios.
+For deep explanation for the difference between traditional vm tools and docker, let's first take a look at traditional vm tools like VM Ware and Virtual Box. Traditional vm tools provide user with full features of an operating system, which offers full support for `graphic user interface(GUI as abbr.)`, `terminal user interface(TUI as abbr.)`, `basic running components`, etc. Those services requires longer time and more resources to startup, meaning user have to cover higher cost if he runs a full operating system. While components packed in docker are `terminal user interface(TUI as abbr.)` and `basic running components`, they can cover most basic usage scenarios.
 Thus a modern virtualization tool to serve users with light-weight vm services should be the definition of docker, in my opinion.
 
-## Comparing Docker with Windows Subsystem of Linux (WSL as abbr.)
+## Comparing Docker with Windows Subsystem for Linux (WSL as abbr.)
 As mentioned above, it is known that docker is a light-weight vm tool. There is another tool to offer virtualization services on windows pc platform only, which is called `Windows Subsystem of Linux(WSL as abbr.)`. So what is the difference between them?
 There are some obvious differences:
 - Distribution Size:

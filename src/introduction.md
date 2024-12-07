@@ -15,7 +15,7 @@ Before we start, it's important to know a few things about the book.
 ### Why I write this book
 I am currently a junior student majoring in Computer Science at **TianJin University** by `Dec. 6, 2024`.
 
-I was a green hand at coding before entering college. Starting the trial in Computer Science is a tough thing for such a fish like me. What we are taught on class are useless in most cases. Many modern tools and concepts may be covered in their lessons for various reasons, which actually flatten your road to a further destination in Computer Science. Thus a reference of those modern tools and concepts are included in this book.
+I was a green hand at coding before entering college. Starting the trial in Computer Science is a tough thing for such a fish like me. What we are taught on class are useless in most cases. Many modern tools and concepts may not be covered in their lessons for various reasons, which actually flatten your road to a further destination in Computer Science. Thus a reference of those modern tools and concepts are included in this book.
 
 
 ### Current Authors
