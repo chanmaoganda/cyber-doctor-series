@@ -1,0 +1,4 @@
+- **Jingchen Wang**
+    - github: [https://github.com/chanmaoganda](https://github.com/chanmaoganda)
+    - email: [avaniawang@outlook.com](avaniawang@outlook.com)
+    - graduate school: [Tianjin University](https://tju.edu.cn/)

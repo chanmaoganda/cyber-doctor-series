@@ -1,4 +1,4 @@
-# Addition Section
+# Additions
 
 In addition section, I would talk about some interesting topics:
 - [ssh](./ssh/introduction.md)
