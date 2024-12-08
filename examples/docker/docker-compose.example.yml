@@ -1,0 +1,8 @@
+services:
+  mdbook:
+    build:
+      context: ./cyber-doctor-series
+    volumes:
+      - ./cyber-doctor-series:/ebook
+    ports:
+      - 8001:8000
