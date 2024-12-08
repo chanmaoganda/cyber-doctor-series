@@ -3,5 +3,4 @@
 In this section, you will learn:
 - How Cpp is compiled linked
 - Use cmake to configure a large project
-- How std headers work
 - Template headers cannot be separated into headers and source files

@@ -9,7 +9,10 @@
     - [virtual machine](./additions/virtual-machine/introduction.md) -->
 
 - [Cpp](./lang-related/cpp/index.md)
-    - []
+    - [Cpp Compilation Introduction](./lang-related/cpp/compilation.md)
+    - [Cmake Introduction](./lang-related/cpp/cmake.md)
+    - [Cpp Compile Process](./lang-related/cpp/compile_process.md)
+    - [Useful Knowledge Appendix](./lang-related/cpp/appendix.md)
 - [Java](./lang-related/java/index.md)
 - [Python](./lang-related/python/index.md)
 - [Rust](./lang-related/rust/index.md)
